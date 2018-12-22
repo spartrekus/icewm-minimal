@@ -1,4 +1,4 @@
-apt-get install  gettext libxft-dev libxinerama-dev libxrandr-dev g++
+apt-get install  gettext libxft-dev libxinerama-dev libxrandr-dev g++  libgdk-pixbuf2.0-dev    
 
 
   gdk-pixbuf-xlib-2.0  
