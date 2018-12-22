@@ -1,5 +1,9 @@
 apt-get install  gettext libxft-dev libxinerama-dev libxrandr-dev g++
 
 
+  gdk-pixbuf-xlib-2.0  
+   
+No package 'gdk-pixbuf-xlib-2.0' found
+ 
 
 
