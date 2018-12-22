@@ -1,1 +1,3 @@
-apt-get install  gettext libxft-dev libxinerama-dev
+apt-get install  gettext libxft-dev libxinerama-dev libxrandr-dev
+
+
